@@ -170,4 +170,3 @@ async def race(ctx):
 
 client.run("TOKEN")
 
-#cog it up!
