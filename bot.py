@@ -168,6 +168,6 @@ async def race(ctx):
         await timeout_embed(ctx)
 
 
-client.run("Nzg3MTg0MTE5MDE1NjY5Nzcw.X9RQVw.RK2acPIpz7rrwOZFEObyy8-hhaM")
+client.run("TOKEN")
 
 #cog it up!
