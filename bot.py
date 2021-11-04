@@ -8,7 +8,7 @@ from discord.ext import commands
 from colour import Color
 from wonderwords import RandomWord
 
-client = commands.Bot(command_prefix="t!", intents=discord.Intents.default())
+client = commands.Bot(command_prefix="t!", intents=discord.Intents.default()) #probably dont need intents but i havent tested without intents 
 word_maker = RandomWord()
 
 
